@@ -12,11 +12,11 @@ namespace Add {
 }
 
 
-class B {
+class B1 {
     public checkType() {}
 }
 
-namespace B {
+namespace B1 {
     const Pi = 30
 }
 
